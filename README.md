@@ -57,6 +57,11 @@ This repository includes the following three datasets found in the Excel file **
 - `ReorderQuantity`: Quantity to reorder.
 - `LastRestockedDate`: Date when the product was last restocked.
 
+## Further Information
+The file **RevitaMartData_Info** provides some back ground details on the datasets including the data dictionary and why you might see certain behaviour in the data
+
+
+
 ## How to Use
 Download the datasets by clicking on the file names.
 
